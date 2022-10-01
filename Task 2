@@ -1,0 +1,11 @@
+n = int(input())
+
+if n >= 170 :
+    print ('tall')
+
+elif 170 > n > 160 :
+    print ('normal')
+    
+elif n < 150 :
+    print ('short')
+    
