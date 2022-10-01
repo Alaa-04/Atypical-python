@@ -1,0 +1,5 @@
+if 2022%4=0 :
+    print('2022 is 366 days')
+    
+else :
+    print('2022 is 365 days ')
